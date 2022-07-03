@@ -1,0 +1,2 @@
+# rzsz
+iterm - sz rz
